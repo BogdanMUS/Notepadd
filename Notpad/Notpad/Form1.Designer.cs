@@ -34,9 +34,9 @@ namespace Notpad
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(46, 98);
+            this.button1.Location = new System.Drawing.Point(492, 89);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 55);
+            this.button1.Size = new System.Drawing.Size(117, 54);
             this.button1.TabIndex = 0;
             this.button1.Text = "Закрыть ";
             this.button1.UseVisualStyleBackColor = true;
@@ -46,8 +46,8 @@ namespace Notpad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(208, 260);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.ClientSize = new System.Drawing.Size(1077, 260);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Бокнот";
